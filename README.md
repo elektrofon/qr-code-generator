@@ -8,5 +8,5 @@ QR Code Generator
 ## Usage
 
 ```bash
-uv run main.py serials.csv serials.pdf
+uv run main.py serials.csv serials.pdf [--size MM]
 ```
